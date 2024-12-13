@@ -1,0 +1,108 @@
+Game name: Something to do with knowledge and learning or something simple
+Complete platforming game that is done in the terminal.
+
+Step 1:
+    - Make a moveable stick figure character in terminal.
+    - There is a floor denoted by underscores.
+
+This is the playable character, Atlas "Atlas. At last we meet.":
+
+   ~@
+   /|\
+___/_\____
+
+Narration:
+You are born into the world knowing nothing. You stop and ask a friendly man where they are, only to be thrown into battle.
+A: "Don't you know the dangers of the world? Don't you see my shirt and my head?"
+@: "No I was just born x seconds ago." (need to code correct time)
+A: "On my shirt here is an uppercase A. I am a part of the royal AlphaNum team."
+@: "What do you mean uppercase A? What is that?"
+A: "A is for Apple. Always Apple. Ah is the sound it makes. Ah, Apple." Throws lowercase a's at Atlas, "Aha! Take that!"
+Battle begins
+
+    - Since I kinda am making this because of my kids, I want all of the alphabets to be phonetically correct at the beginning lvls.
+    - Ex: G is for Giraffe isn't allowed, since the G here sounds like a J, until later lvls.
+Vowel A is for Apple (Everyone knows A is for Apple. Always Apple.)
+    B is for Ball, Brazil,
+    C is for Cat
+    D is for Dog, Dinosaur
+Vowel E is for Elephant
+    F is for Fish
+    G is for Goat
+    H is for Heart
+Vowel I is for Igloo, Iguana, Insurance (lvl 9)
+    J is for Jam (Musical character that rocks with Jelly)
+    K is for Kangaroo
+    L is for Learning
+    M is for Monkey
+    N is for Numbers
+Vowel O is for Octopus
+    P is for Pirate
+    Q is for Queen
+    R is for Ricardo (Everyone knows R is for Ricardo. Always Ricardo. Until lvl 9, when Ricardo transforms into Roboto-cardo)
+    S is for Snake
+    T is for Tiger, Typescript,
+Vowel U is for Umbrella
+    V is for Vase, Volcano
+    W is for Whale
+    X is for Xylophone
+Sometimes Vowel Y is for Yellow
+    and
+    Z is for Zebra
+
+Level 0:
+~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0  ~0
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 1:
+~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1  ~1
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 2:
+~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2  ~2
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 3:
+~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3  ~3
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 4:
+~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4  ~4
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 5:
+~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5  ~5
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 6:
+~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6  ~6
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 7:
+~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7  ~7
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 8:
+~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8  ~8
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+Level 9:
+~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9  ~9
+/A\ /B\ /C\ /D\ /E\ /F\ /G\ /H\ /I\ /J\ /K\ /L\ /M\ /N\ /O\ /P\ /Q\ /R\ /S\ /T\ /U\ /V\ /W\ /X\ /Y\ /Z\
+/ \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+
+    - Each AlphaNum character has their own personality and attacks using their lowercase letter.
+    - You attack using @ sign.
+    - Each Level changes the "[Letter] is for [thing]", meaning there are 10 words per Letter (260 words?).
+
+    - Terrain can be
+

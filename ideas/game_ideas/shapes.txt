@@ -1,0 +1,12 @@
+Based on the book: Flatland
+[Fade in static]
+Aren't we just pixels on the screen?
+
+[Fade in underneath text]
+Yes we are.
+
+Start of a game about shapes. An amorphous blob continues about the land trying to find where he belongs. His understanding of the world around him changes when he realizes that shapes are lines and lines are points. Shapes can make up a 2d plane. But what are we? Aren't we just pixels? Who's on the other side of the screen? Are you just pixels? A tale of discovery and finding ones self. What makes up a shape? Lines? Points? Pixels? 0's and 1's? Or is it you? On the other side? What shape are you?
+
+Puzzle game where you solve math problems (in a fun way) to find out where you belong. In doing so, you learn how the world works and come across many different shapes such as squares, triangles, circles, pentagons, and more. When you get to the end you'll have discovered proofs that tell of a land that you cannot perceive. It's a land where the shapes are different and these shapes can rip a hole in the fabric of your universe. That's where you want to go. That's where you belong. But how do I get there?
+
+
